@@ -24,6 +24,7 @@ public class FloppyBird extends ApplicationAdapter {
     String init = "Hello Word";
     String inits = "Hello Word";
     String inits4 = "Hello Word";
+    String inits5 = "Hello Branch";
 
 	Texture topTube;
 	Texture bottomTube;
